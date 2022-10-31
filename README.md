@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+### Hi there 👋 my name is Akona Silwana
 I'm a Front-End Developer who specializes in React. I am passionate about all things programming and tech.
 
 🌍  I'm based in South Africa
@@ -9,5 +7,7 @@ I'm a Front-End Developer who specializes in React. I am passionate about all th
 🧠  I'm learning React(Typescript) and NextJs 
 🤝  I'm open to collaborating on any interesting open source projects
 😄 Pronouns: she/her
+<!--
+
 
 -->
